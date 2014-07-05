@@ -1,8 +1,8 @@
-(module Nichia_NSPWR70CS-K1 (layer F.Cu)
+(module Nichia_NSPWR70CS-K1 (layer F.Cu) (tedit 53B7B2B5)
   (fp_text reference LED? (at -0.01 -4.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value VAL** (at 0 5.025) (layer F.SilkS)
+  (fp_text value VAL** (at 0 5.025) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 0 -1.27) (end 0 -3.175) (layer F.SilkS) (width 0.2))
